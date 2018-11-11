@@ -1,4 +1,5 @@
 Primera Parte: Introducción
+Referencial
 ========
 El objetivo de esta guía es dar a conocer unos conocimientos de nivel básico/intermedio sobre el funcionamiento de Git, las diversas posibilidades que ofrece Github y por último aplicar todo lo aprendido de manera práctica siguiendo una metodología.
 
